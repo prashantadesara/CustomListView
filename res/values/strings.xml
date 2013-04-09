@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CustomListView</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="mainListItem">Main Title</string>
+	<string name="subListItem">Sub Title</string>
+	<string name="comments">Comments</string>
+	<string name="dateTime">Date and Time</string>
+</resources>
